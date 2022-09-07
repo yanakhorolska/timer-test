@@ -1,0 +1,29 @@
+﻿.timer {
+    width: 700px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    background-color: rgb(207, 236, 248);
+    outline: 1px solid black;
+    
+}
+.actions {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.timer-btn {
+    padding: 20px;
+    background-color:rgb(11, 70, 95);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    border: none;
+}
+.timer-btn:hover {
+    background-color:rgb(7, 147, 216);
+}
+.clockface {
+    text-align: center;
+    font-size: 50px;
+}
